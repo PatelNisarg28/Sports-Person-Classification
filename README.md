@@ -42,7 +42,7 @@ Technologies used in this project :-
 - Now use GridSearch to try out different models with different paramets. Goal is to come up with best modle with best fine tuned parameters.
 -       model	                   best_score      	best_params 
          0	svm             	0.583333	{'svc__C': 1, 'svc__kernel': 'linear'}
-         1	random_forest	    0.541667	{'randomforestclassifier__n_estimators': 10}
+         1	random_forest	        0.541667  	{'randomforestclassifier__n_estimators': 10}
          2	logistic_regression	0.602778	{'logisticregression__C': 1}    
 
 - draw the confusion matrix using Seaborn for better understanding.
