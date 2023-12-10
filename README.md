@@ -1,5 +1,5 @@
 
-# Sports Persion Classification
+# Sports Person Classification
 
 In this project i made a Classification model which classify the sport
 person with their image.We restrict classification to only 5 people :-  
